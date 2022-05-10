@@ -1,7 +1,7 @@
 ## Oi ! Eu sou o GuidoZenox ! 👋
 
 📚 Faço curso na Alura
-💻 Atualmente estou em formação back end
+💻 Atualmente estou em formação fullstack
 📌 Javascript
 
 <div align="center">
